@@ -1,0 +1,10 @@
+{
+  "patient_id": "P-SAMPLE-001",
+  "name": "Sample Patient",
+  "dob": "1980-01-01",
+  "diagnosis": "Sample Diagnosis",
+  "medications": ["Sample Med 1", "Sample Med 2"],
+  "notes": "This is synthetic sample data for testing purposes only.",
+  "genome_ref": "GRCh38",
+  "genomic_variant": "rs0000000 (SAMPLE)"
+}
